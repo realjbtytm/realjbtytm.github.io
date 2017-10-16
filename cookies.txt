@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-justbeingtheyoutuberme.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
-.quantserve.com	TRUE	/	FALSE	1999999999	mc	59e51921-63890-f2abf-4c9bd
-.google.com	TRUE	/	FALSE	1999999999	NID	114=QnGb44YysPVnEJ-A3px4rT7hS_izLnsclxvr0P5tsKnOyBC9PpQdkPBZicJqFvIzxXFBg-e1G1UmQ6NqgH2BDljh8D9gEcJULMhSmq5FWlhELgOH0aKLz8Ke0DHW5fOy
-justbeingtheyoutuberme.weebly.com	TRUE	/	FALSE	1999999999	language	en
-
